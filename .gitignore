@@ -1,4 +1,5 @@
 .vscode/
 .venv/
+.venv-new/
 
 .ipynb_checkpoints/
